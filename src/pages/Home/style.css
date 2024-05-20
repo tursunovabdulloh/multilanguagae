@@ -1,0 +1,10 @@
+.text-div {
+  margin-top: 20px;
+}
+.text {
+  line-height: 25px;
+}
+.span-text {
+  font-weight: 900;
+  color: rgb(215, 45, 45);
+}
